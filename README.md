@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraddha-mane247" alt="shraddha-mane247" /></a> </p>
 
-- 🔭 I’m currently working on **E-learning platform**
+- 🔭 I’m currently working on **Fetal Fitness Tracking Using CTG**
 
 - 🌱 I’m currently learning **Full-stack Java**
 

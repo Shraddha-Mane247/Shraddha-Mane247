@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha-mane247&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha-mane247" /> </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/159457444?s=96&v=4" width="100" height="100" style="border-radius: 50%;" alt="Shraddha Mane">
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/159457444?s=96&v=4" width="100" height="100" style="border-radius: 50;" alt="Shraddha Mane">
 </p>
 
 

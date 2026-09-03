@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Fetal Fitness Tracking Using CTG**
+
 
 - 🌱 I’m currently learning **Full-stack Java**
 
